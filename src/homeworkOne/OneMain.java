@@ -1,22 +1,13 @@
 package homeworkOne;
 
-import javax.sound.midi.Soundbank;
-import javax.swing.text.StyleContext;
-import javax.xml.namespace.QName;
-import java.awt.image.SampleModel;
-import java.net.PasswordAuthentication;
-import java.nio.charset.StandardCharsets;
-import java.sql.Array;
-import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
-import java.util.List;
 
 import static homeworkOne.Sample.multiplication;
 import static homeworkOne.Sample.wal;
 
-public class One {
+public class OneMain {
     public static void main(String[] args) {
         System.out.println("Hello world!");
         System.out.println("danny");
@@ -480,7 +471,7 @@ public class One {
             //System.out.print(A.charAt(HW));
 
         /*git init
-        git add README.md
+        git add .
         git commit -m "first commit"
         git branch -M main
         git remote add origin https://github.com/Dannytech77/JavaRevisionFirstRepo.git
